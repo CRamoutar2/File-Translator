@@ -1,0 +1,13 @@
+Este es un ejemplo de un "verdadero PDF" (también conocido como PDF basado en texto o creado digitalmente).
+Este PDFS se creó usando Microsoft Word utilizando la función "Imprimir a PDF"."Verdadero PDF"
+consisten en texto e imágenes.Deberíamos pensar en estos PDF que tienen dos capas: una capa
+es la imagen y una segunda capa es el texto.La capa de imagen muestra lo que verá el documento
+como si se imprima en papel.La capa de texto se puede buscar un texto que se lleva a cabo del original
+Archivo de Word en el nuevo archivo PDF (el término técnico para esta capa es "texto extraído").No hay
+Necesita que se pueda buscar y el nuevo PDF tendrá el mismo texto que el archivo de Word original.Un
+Ejemplo de verdaderos PDF con los que los abogados del Panel Federal Defender y CJA estarán familiarizados
+Los alegatos archivados en CM/ECF.El alegato se crea originalmente en Word, pero luego el abogado
+O lo guarda como PDF o imprime a PDF y presentan ese documento PDF ante el tribunal.Usando
+O Proces s, ahora hay un archivo PDF creado con una capa de imagen Plus de texto.En términos de
+Usabilidad, este es el mejor tipo de PDF para recibir en el descubrimiento, ya que tendrá el texto más cercano al texto
+Búsqueda de la búsqueda del archivo original.
